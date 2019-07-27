@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 
 Hi, thank you for viewing.
 
